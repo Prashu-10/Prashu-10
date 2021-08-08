@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prashu-10
 - 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning to building smart products.
-- 💞️ I’m looking to collaborate on Open Source Community.
+- 🌱 I’m currently learning NLP
+- 💞️ I’m looking to collaborate on Open Source Community
 - 📫 How to reach me pranjal.workspace10@gmail.com
 
 <!---
